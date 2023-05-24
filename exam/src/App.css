@@ -1,14 +1,6 @@
 *{
   margin: 0;
-  padding: 0.7px;
-  transition: 0.7s;
+  padding: 0px;
+  transition: 1s;
   box-sizing: border-box;
-}
-.btns{
-  width: 100px;
-  height: 30px;
-  border: none;
-  border-radius: 20px;
-  color: #000;
-  background-color: chocolate;
 }

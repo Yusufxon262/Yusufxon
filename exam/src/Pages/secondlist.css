@@ -1,0 +1,8 @@
+.SecondListMain{
+    width: 100%;
+    height: 190vh;
+    padding: 30px;
+    background-color: violet;
+    display: grid;
+    grid-template-columns: repeat(2, 650px);
+}
